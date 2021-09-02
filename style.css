@@ -55,7 +55,7 @@ h1{
     font-size: 40px;
 }
 
-.block-info .temps::first-letter{
+.bloc-info .temps::first-letter{
     text-transform: capitalize;
 }
 
